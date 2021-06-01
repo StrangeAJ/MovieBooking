@@ -2,7 +2,7 @@
 
 A simple movie booking frontend website using html,css and javascript.
 
-#Preview
+# Preview
 
 ![Gif Preview](/video/preview.gif)
 
